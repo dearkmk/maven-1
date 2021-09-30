@@ -1,0 +1,10 @@
+This
+is
+my
+first
+maven
+job.
+this 
+is
+readme
+file
